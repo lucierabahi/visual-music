@@ -24,4 +24,6 @@
 
 [kpence](https://github.com/kpence)
 
--[@codinggilm](https://github.com/codinggilm)
+[@codinggilm](https://github.com/codinggilm)
+
+[ryanboris](https://github.com/ryanboris)
